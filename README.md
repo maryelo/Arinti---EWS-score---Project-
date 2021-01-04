@@ -5,7 +5,7 @@
 ### Alex Delruelle
 ### Francesca Bormioli
 ### Maja Minnaert
-### Maryame El Oomari
+### Maryame El Omari
 
 
 Repository: `regression`
