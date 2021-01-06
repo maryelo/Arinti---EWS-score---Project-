@@ -11,9 +11,17 @@
 ## Team 
 
 ### Alex Delruelle
+
 ### Francesca Bormioli
+
 ### Maja Minnaert
+
 ### Maryame El Omari
+- 4 Jan: introduction to the assesment & the dataset
+         analyzing and preprocessing
+- 5 Jan: Continue preproccing and visualizing certain findings
+- 6 Jan: Studying Timeseries & trying out on the dataset
+
 
 
 # Assignment description: EWS regression
